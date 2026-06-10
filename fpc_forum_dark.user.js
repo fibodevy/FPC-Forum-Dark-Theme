@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FPC Forum Dark (theme + Pascal highlighter)
 // @namespace    https://forum.lazarus.freepascal.org/
-// @version      4.0.26
+// @version      4.0.27
 // @description  All-in-one: the combined FPC / Lazarus dark theme (curve base + manual overrides) AND the Unleashed-aware Pascal syntax highlighter, bundled into a single userscript. The two parts are fully independent IIFEs separated by the banner below.
 // @author       Fibonacci
 // @match        https://forum.lazarus.freepascal.org/*
