@@ -7,8 +7,8 @@
 // @match        https://forum.lazarus.freepascal.org/*
 // @run-at       document-start
 // @grant        none
-// @updateURL    https://fibo.gg/userscript/fpc_forum_dark.user.js
-// @downloadURL  https://fibo.gg/userscript/fpc_forum_dark.user.js
+// @updateURL    https://github.com/fibodevy/fpc-forum-dark-theme/raw/refs/heads/main/fpc_forum_dark.user.js
+// @downloadURL  https://github.com/fibodevy/fpc-forum-dark-theme/raw/refs/heads/main/fpc_forum_dark.user.js
 // ==/UserScript==
 
 // ============================================================================
